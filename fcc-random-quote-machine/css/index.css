@@ -1,0 +1,10 @@
+#quote {
+  font-size: 4em;
+}
+#author {
+  font-size: 2em;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+}

@@ -1,0 +1,63 @@
+.contact-link {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.contact-link:hover {
+  text-decoration: none;
+  color: black;
+  opacity: 0.8;
+}
+.contact-link:link, .contact-link:visited, .contact-link:active{
+  text-decoration: none;
+  color: black;
+}
+.white {
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  font-size: 6vw;
+  max-width: 90%;
+}
+h2 {
+  font-size: 4vw;
+}
+
+#about {
+  width: 100%;
+  height: 100vh;
+  display: block;
+  padding-top: 50px;
+  margin-top: 50px;
+  background-image: url(../images/bg1.jpg);
+}
+#about-content {
+  padding: 50px;
+}
+#about p {
+  font-size: 3vh;
+}
+#about-image {
+  max-width: 60%;
+}
+
+#portfolio {
+  height: auto;
+  width: 100%;
+  display: block;
+  background-image: url(../images/bg2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+.project {
+  max-width: 350px;
+  padding: 10px;
+  margin: 10px;
+}
+.project:hover {
+  opacity: 0.6;
+}

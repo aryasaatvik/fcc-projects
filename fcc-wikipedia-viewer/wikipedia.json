@@ -1,0 +1,83 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "sroffset": 10,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 4720
+    },
+    "search": [{
+      "ns": 0,
+      "title": "Albert Einstein",
+      "size": 142745,
+      "wordcount": 14995,
+      "snippet": "<span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> (/ˈaɪnstaɪn/; German: [ˈalbɛɐ̯t ˈaɪnʃtaɪn] ( listen); 14 March 1879 – 18 April 1955) was a German-born theoretical physicist. He developed",
+      "timestamp": "2017-06-12T15:06:01Z"
+    }, {
+      "ns": 0,
+      "title": "Einstein family",
+      "size": 37204,
+      "wordcount": 3508,
+      "snippet": "The <span class=\"searchmatch\">Einstein</span> family is the family of the renowned physicist <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> (1879–1955). <span class=\"searchmatch\">Einstein</span>'s great-great-great-great-grandfather, Jakob Weil, was",
+      "timestamp": "2017-06-09T01:48:45Z"
+    }, {
+      "ns": 0,
+      "title": "Albert Einstein College of Medicine",
+      "size": 54490,
+      "wordcount": 5554,
+      "snippet": "﻿40.850852°N 73.844949°W﻿ / 40.850852; -73.844949 The <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> College of Medicine (&quot;<span class=\"searchmatch\">Einstein</span>&quot; for short), a joint entity between Montefiore Medical",
+      "timestamp": "2017-06-11T21:42:48Z"
+    }, {
+      "ns": 0,
+      "title": "Albert Einstein Medal",
+      "size": 2419,
+      "wordcount": 222,
+      "snippet": "The <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> Medal is an award presented by the <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> Society in Bern. First given in 1979, the award is presented to people for &quot;scientific",
+      "timestamp": "2016-08-18T23:24:05Z"
+    }, {
+      "ns": 0,
+      "title": "Albert Einstein Hospital",
+      "size": 6061,
+      "wordcount": 228,
+      "snippet": "The Hospital Israelita <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> (English: <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> Israelite Hospital) is a Brazilian hospital, located in the Morumbi district, on the",
+      "timestamp": "2016-12-07T22:57:21Z"
+    }, {
+      "ns": 0,
+      "title": "Albert Einstein: The Practical Bohemian",
+      "size": 2503,
+      "wordcount": 231,
+      "snippet": "<span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span>: The Practical Bohemian is a stage play that is the only show officially endorsed by the <span class=\"searchmatch\">Einstein</span> family. A quote from <span class=\"searchmatch\">Albert</span> Einstein's",
+      "timestamp": "2017-02-05T03:55:50Z"
+    }, {
+      "ns": 0,
+      "title": "Political views of Albert Einstein",
+      "size": 41449,
+      "wordcount": 4716,
+      "snippet": "<span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> was widely known during his lifetime for his work with the theory of relativity and physics in general. His political opinions were of",
+      "timestamp": "2017-06-05T08:49:40Z"
+    }, {
+      "ns": 0,
+      "title": "Albert Einstein Peace Prize",
+      "size": 8680,
+      "wordcount": 581,
+      "snippet": "The <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> Peace Prize is/was a peace prize awarded annually since 1980 by the <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> Peace Prize Foundation. The Foundation dates from",
+      "timestamp": "2017-02-04T08:16:26Z"
+    }, {
+      "ns": 0,
+      "title": "Albert Einstein in popular culture",
+      "size": 22719,
+      "wordcount": 2349,
+      "snippet": "<span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> has been the subject of or inspiration for many works of popular culture. On <span class=\"searchmatch\">Einstein</span>'s 72nd birthday on March 14, 1951, United Press",
+      "timestamp": "2017-06-05T14:45:37Z"
+    }, {
+      "ns": 0,
+      "title": "List of scientific publications by Albert Einstein",
+      "size": 164615,
+      "wordcount": 4080,
+      "snippet": "<span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> (1879–1955) was a renowned theoretical physicist of the 20th century, best known for his theories of special relativity and general relativity",
+      "timestamp": "2017-03-15T01:05:02Z"
+    }]
+  }
+}

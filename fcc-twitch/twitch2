@@ -1,0 +1,43 @@
+{
+  "stream": null,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams/cretetion",
+    "channel": "https://api.twitch.tv/kraken/channels/cretetion"
+  }
+}
+
+{
+  "mature": true,
+  "status": "Hanging With My Pack",
+  "broadcaster_language": "en",
+  "display_name": "cretetion",
+  "game": "Farming Simulator 17",
+  "language": "en",
+  "_id": 90401618,
+  "name": "cretetion",
+  "created_at": "2015-05-06T15:57:39Z",
+  "updated_at": "2017-06-13T05:01:18Z",
+  "partner": false,
+  "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/cretetion-profile_image-12bae34d9765f222-300x300.jpeg",
+  "video_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/cretetion-channel_offline_image-0410bb4dec3a9991-1920x1080.jpeg",
+  "profile_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/cretetion-profile_banner-c50d8ffd97fc7ffa-480.png",
+  "profile_banner_background_color": null,
+  "url": "https://www.twitch.tv/cretetion",
+  "views": 15416,
+  "followers": 1028,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/channels/cretetion",
+    "follows": "https://api.twitch.tv/kraken/channels/cretetion/follows",
+    "commercial": "https://api.twitch.tv/kraken/channels/cretetion/commercial",
+    "stream_key": "https://api.twitch.tv/kraken/channels/cretetion/stream_key",
+    "chat": "https://api.twitch.tv/kraken/chat/cretetion",
+    "features": "https://api.twitch.tv/kraken/channels/cretetion/features",
+    "subscriptions": "https://api.twitch.tv/kraken/channels/cretetion/subscriptions",
+    "editors": "https://api.twitch.tv/kraken/channels/cretetion/editors",
+    "teams": "https://api.twitch.tv/kraken/channels/cretetion/teams",
+    "videos": "https://api.twitch.tv/kraken/channels/cretetion/videos"
+  },
+  "delay": null,
+  "banner": null,
+  "background": null
+}

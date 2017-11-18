@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Tic Tac Toe</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/index.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <div id="modal" class="modal fade">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title">tictactoe</h1>
+        </div>
+        <div class="modal-body">
+          <h4 id="question">Choose X or O</h4>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" id="leftButton">X</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal" id="rightButton">O</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <h1 id="title" class="text-center">tic tac toe</h1>
+      <div class="board">
+        <button class="move btn col-xs-3" value='0'></button>
+        <button class="move btn col-xs-3" value='1'></button>
+        <button class="move btn col-xs-3" value='2'></button>
+        <button class="move btn col-xs-3" value='3'></button>
+        <button class="move btn col-xs-3" value='4'></button>
+        <button class="move btn col-xs-3" value='5'></button>
+        <button class="move btn col-xs-3" value='6'></button>
+        <button class="move btn col-xs-3" value='7'></button>
+        <button class="move btn col-xs-3" value='8'></button>
+      </div>
+    </div>
+  </div>
+
+
+  <footer>
+    <h5 class="text-center text-muted">Coded and Designed by <a href="https://github.com/aryasaatvik">Saatvik Arya</a></h5>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/index.js"></script>
+</body>
+
+</html>

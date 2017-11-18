@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Pomodoro Clock</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/index.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <h1 class="text-center">Pomodoro Clock</h1>
+      <h2 class="text-center">click the circle to start a session</h2>
+      <div class="row">
+        <div class="session-settings col-xs-6">
+          <div class="row">
+            <h4 class="setting-title col-xs-12">Session Length</h4>
+            <div class="form-inline">
+              <button id="decreaseSession" class="form-group col-xs-4 setting-button">-</button>
+              <h4 id="session-length" class="form-group col-xs-4">25</h4>
+              <button id="increaseSession" class="form-group col-xs-4 setting-button">+</button>
+            </div>
+          </div>
+        </div>
+        <div class="break-settings col-xs-6">
+          <div class="row">
+            <h4 class="setting-title col-xs-12">Break Length</h4>
+            <div class="form-inline">
+              <button id="decreaseBreak" class="form-group col-xs-4 setting-button">-</button>
+              <h4 id="break-length" class="form-group col-xs-4">5</h4>
+              <button id="increaseBreak" class="form-group col-xs-4 setting-button">+</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button id="timer" class="col-xs-12 text-center">25:00</button>
+      <h2 id="timerStatus" class="col-xs-12 text-center">Session Stopped</h2>
+    </div>
+  </div>
+
+
+  <footer>
+    <h5 class="text-center text-muted">Coded and Designed by <a href="https://github.com/aryasaatvik">Saatvik Arya</a></h5>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/index.js"></script>
+
+</body>
+
+</html>

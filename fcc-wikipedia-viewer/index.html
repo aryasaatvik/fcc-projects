@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wikipedia Viewer</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/index.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="jumbotron">
+      <div class="row">
+        <h1>Wikipedia Viewer</h1>
+        <div class="form-inline">
+          <input type="text" id="searchField" class="form-control" placeholder="Search Wikipedia">
+          <button type="submit" id="getSearch" class="btn btn-default">Search</button>
+          <a class="btn btn-default" href="https://en.wikipedia.org/wiki/Special:Random">Random Wiki</a>
+        </div>
+      </div>
+    </div>
+    <div id="results">
+    </div>
+  </div>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!-- <script src="js/jquery.min.js"></script> -->
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/index.js"></script>
+</body>
+<footer class="footer">
+  <div class="container">
+    <h4 class="text-muted text-center">Coded by Saatvik Arya. Powered by <a href="https://en.wikipedia.org">Wikipedia</a></h4>
+  </div>
+</footer>
+</html>

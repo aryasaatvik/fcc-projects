@@ -1,0 +1,61 @@
+{
+  "stream": {
+    "_id": 25498512096,
+    "game": "League of Legends",
+    "viewers": 8813,
+    "video_height": 1080,
+    "average_fps": 30,
+    "delay": 0,
+    "created_at": "2017-06-13T07:31:33Z",
+    "is_playlist": false,
+    "stream_type": "live",
+    "preview": {
+      "small": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lck1-80x45.jpg",
+      "medium": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lck1-320x180.jpg",
+      "large": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lck1-640x360.jpg",
+      "template": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lck1-{width}x{height}.jpg"
+    },
+    "channel": {
+      "mature": false,
+      "partner": true,
+      "status": "LCK Summer: KT vs. JAG | LZ vs. ROX",
+      "broadcaster_language": "en",
+      "display_name": "LCK1",
+      "game": "League of Legends",
+      "language": "en",
+      "_id": 124425501,
+      "name": "lck1",
+      "created_at": "2016-05-16T18:35:22Z",
+      "updated_at": "2017-06-13T08:33:39Z",
+      "delay": null,
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/lck1-profile_image-6cbc7d586c807da3-300x300.png",
+      "banner": null,
+      "video_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/lck1-channel_offline_image-5360123e1082e0eb-1920x1080.jpeg",
+      "background": null,
+      "profile_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/lck1-profile_banner-bf4e5c36656b7d28-480.png",
+      "profile_banner_background_color": "",
+      "url": "https://www.twitch.tv/lck1",
+      "views": 19113468,
+      "followers": 203667,
+      "_links": {
+        "self": "https://api.twitch.tv/kraken/channels/lck1",
+        "follows": "https://api.twitch.tv/kraken/channels/lck1/follows",
+        "commercial": "https://api.twitch.tv/kraken/channels/lck1/commercial",
+        "stream_key": "https://api.twitch.tv/kraken/channels/lck1/stream_key",
+        "chat": "https://api.twitch.tv/kraken/chat/lck1",
+        "features": "https://api.twitch.tv/kraken/channels/lck1/features",
+        "subscriptions": "https://api.twitch.tv/kraken/channels/lck1/subscriptions",
+        "editors": "https://api.twitch.tv/kraken/channels/lck1/editors",
+        "teams": "https://api.twitch.tv/kraken/channels/lck1/teams",
+        "videos": "https://api.twitch.tv/kraken/channels/lck1/videos"
+      }
+    },
+    "_links": {
+      "self": "https://api.twitch.tv/kraken/streams/lck1"
+    }
+  },
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams/LCK1",
+    "channel": "https://api.twitch.tv/kraken/channels/LCK1"
+  }
+}

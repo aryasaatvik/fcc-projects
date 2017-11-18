@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Local Weather</title>
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/weather-icons.min.css" rel="stylesheet">
+  <link href="css/index.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="jumbotron">
+      <div class="row">
+        <h1>Weather by Saatvik Arya</h1>
+        <canvas id="skycon-icon" width="64" height="64"></canvas>
+        <h4 class="col-xs-12" id="summary"></h4>
+        <h4 class="measurement" id="temperature"><i class="wi wi-thermometer"></i></h4>
+        <h4 class="measurement" id="precipitation"><i class="wi wi-raindrop"></i></h4>
+        <h4 class="measurement" id="humidity"><i class="wi wi-humidity"></i></h4>
+        <h4 class="measurement" id="wind"><i class="wi wi-windy"></i></h4>
+      </div>
+
+    </div>
+    <button id="getWeather" type="button" class="btn btn-primary">Refresh Weather</button>
+    <button id="switchUnits" type="button" class="btn btn-primary">Switch to Celsius</button>
+    <h4><a href="https://darksky.net/poweredby/">Powered by Dark Sky</a></h4>
+  </div>
+
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/skycons.js"></script>
+  <script src="js/index.js"></script>
+</body>
+
+</html>

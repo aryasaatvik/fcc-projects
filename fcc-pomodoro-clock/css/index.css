@@ -1,0 +1,36 @@
+.session-settings {
+  text-align: center;
+  padding-right: 50px;
+}
+
+.break-settings {
+  text-align: center;
+  padding-left: 50px;
+}
+
+.setting-title {
+  text-align: left;
+}
+
+.setting-button {
+  margin: 5px;
+  border: none;
+  background-color: rgb(190, 190, 190);
+  width: 40px;
+	height: 40px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+
+#timer {
+  font-size: 32px;
+  background-color: green;
+  border: none;
+  left: 25%;
+  width: 250px;
+  height: 250px;
+  -moz-border-radius: 125px;
+  -webkit-border-radius: 125px;
+  border-radius: 125px;
+}

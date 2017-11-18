@@ -1,0 +1,21 @@
+.channels {
+}
+.channel {
+  margin: 10px;
+  width: 350px;
+  height: 100px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  float: left;
+}
+
+.user, .stream{
+  margin-left: 60px;
+}
+
+.stream {
+  overflow: hidden;
+}
